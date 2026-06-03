@@ -1,7 +1,5 @@
 {
   "rewrites": [
-    { "source": "/pesan", "destination": "/pesan.html" },
-    { "source": "/hadiah", "destination": "/hadiah.html" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
